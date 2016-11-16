@@ -1,0 +1,33 @@
+<ion-modal-view>
+  <ion-header-bar>
+    <h1 class="title">Report Incident</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closeLogin()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <form ng-submit="submitReport()">
+      <div class="list">
+        <label class="item item-input">
+          <span class="input-label">Where? (XY Coordinates)</span>
+          <input type="text" id="coords" ng-model="incident.coords" ng-value="map.getCenter()">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">What is going on?</span>
+          <input type="text" ng-model="incident.title">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Time Reported</span>
+          <input type="text" id="time" ng-model="incident.time" ng-value="clock | date:'dd/MM/yyyy HH:mm:ss'">
+        </label>
+        <label class="item range range-positive">
+          <span class="input-label">Incident Severity:&nbsp;<span style="font-style: italic; color: #e42112"><strong>{{incident.severity}}</strong></span></span>
+          <input type="range" name="severity" min="0" max="10" value="0" ng-model="incident.severity">
+        </label>
+        <label class="item">
+          <button class="button button-block button-positive" type="submit">Report</button>
+        </label>
+      </div>
+    </form>
+  </ion-content>
+</ion-modal-view>

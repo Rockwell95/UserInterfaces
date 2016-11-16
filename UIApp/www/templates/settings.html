@@ -1,0 +1,28 @@
+<ion-view view-title="Settings">
+  <ion-content>
+    <ul class="list">
+      <li class="item item-toggle">
+        Check-In Deadswitch
+        <label class="toggle toggle-positive">
+          <input type="checkbox" ng-model="deadswitch">
+          <div class="track">
+            <div class="handle"></div>
+          </div>
+        </label>
+      </li>
+      <li class="item item-select">
+          <div class="input-label">
+            Minutes Between Check-Ins
+          </div>
+          <select ng-disabled="!deadswitch" ng-model="deadswitchInterval">
+            <option selected>10</option>
+            <option>20</option>
+            <option>30</option>
+            <option>40</option>
+            <option>50</option>
+            <option>60</option>
+          </select>
+      </li>
+    </ul>
+  </ion-content>
+</ion-view>

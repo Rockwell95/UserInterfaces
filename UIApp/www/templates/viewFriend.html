@@ -1,0 +1,29 @@
+<ion-modal-view>
+  <ion-header-bar class="bar bar-positive">
+    <h1 class="title">Add a Friend</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="cancelView()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <div class="list">
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Friend's Name</span>
+        <input type="text" ng-value="friends[index].name" ng-readonly="true">
+      </label>
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Friend's Phone Number</span>
+        <input type="text" ng-value="friends[index].number" ng-readonly="true">
+      </label>
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Friend's E-mail (Optional)</span>
+        <input type="text" ng-readonly="true" ng-value="friends[index].email">
+      </label>
+      <label class="row">
+        <div class="col" style="text-align: center">Status: {{friends[index].status}}<br><span><i class="ion-checkmark-circled balanced" style="font-size: x-large"></i></span></div>&nbsp;
+        <button class="button button-block button-balanced col" type="submit"><span><i class="ion-android-textsms"></i></span> Text</button>&nbsp;
+        <button class="button button-block button-energized col" type="submit"><span><i class="ion-ios-telephone"></i></span> Call</button>
+      </label>
+    </div>
+  </ion-content>
+</ion-modal-view>
