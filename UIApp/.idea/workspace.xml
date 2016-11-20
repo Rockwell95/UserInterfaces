@@ -2,292 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b4e5b94-3f30-4c84-a005-174e9d198917" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.mailmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.npmrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/AUTHORS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/cdn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/dist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/ensure-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/dist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/lib/spawn_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/node_smoke_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/promises_aplus_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/sourcemap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/testswarm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/dist/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/npo/npo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit-assert-step/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit-assert-step/qunit-assert-step.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/requirejs/require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sinon/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sinon/sinon.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/DOMEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/ready-no-deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/readyException.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/stripAndCollapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/adjustCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/showHide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/isHiddenWithinTree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/Data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/acceptData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/dataPriv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/dataUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deferred/exceptionHook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/focusin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/trigger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/buildFragment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/getAll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/setGlobalEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rscriptType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rtagName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/wrapMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/dir.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/siblings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/ObjectFunctionString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/documentElement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/fnToString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/getProto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/rcssNum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/rnothtmlwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/wrapper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/1x1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/content-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/evalScript.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/onunload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/unreleasedXHR.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/atom+xml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/badcall.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/badjson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/cleanScript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/aliased.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/cc_on.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/dont_return.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/dynamic_ready.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/onready.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/css/cssWidthBeforeDocReady.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/dashboard.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/data/dataAttrs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/dimensions/documentLarge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/echoData.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/echoQuery.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/errorWithJSON.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/errorWithText.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/etag.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/focusElem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/focusinCrossFrame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/interactiveReady.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/onbeforeunload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/promiseReady.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/syncReady.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/triggerunload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/headers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/if_modified_since.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/iframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/iframeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/jquery-1.9.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/json_obj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/jsonp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/longLoadScript.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/manipulation/iframe-denied.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/manipulation/scripts-context.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/name.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/nocontent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/absolute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/body.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/fixed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/relative.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/scroll.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/static.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/params_html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/readywaitasset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/readywaitloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/script.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/selector/html5_selector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/selector/sizzle_cache.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/statusText.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/bodyBackground.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp-clean.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp-log.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/getComputedSupport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testbar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testinit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testrunner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testsuite.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/with_fries.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/with_fries_over_jsonp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/delegatetest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/hovertest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen-iframe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen-iframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/gh-1764-fullscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/gh-2343-ie-radio-click.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/localfile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/networkerror.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_passed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_present_originally.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/iterable_with_native_symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/iterable_with_symbol_polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_global_not_created.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_iterability_es6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/when.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/readywait.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/animation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/exports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/xhtml.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/addFriend.html" afterPath="$PROJECT_DIR$/www/templates/addFriend.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/emerginfo.html" afterPath="$PROJECT_DIR$/www/templates/emerginfo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/login.html" afterPath="$PROJECT_DIR$/www/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/menu.html" afterPath="$PROJECT_DIR$/www/templates/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/register.html" afterPath="$PROJECT_DIR$/www/templates/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/report.html" afterPath="$PROJECT_DIR$/www/templates/report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/settings.html" afterPath="$PROJECT_DIR$/www/templates/settings.html" />
     </list>
     <ignored path="UIApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -560,6 +275,7 @@
     <property name="editor.config.accepted" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -574,6 +290,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -634,15 +356,15 @@
       <workItem from="1479233997179" duration="14722000" />
       <workItem from="1479421623018" duration="986000" />
       <workItem from="1479668601838" duration="5485000" />
-      <workItem from="1479678304571" duration="1739000" />
+      <workItem from="1479678304571" duration="2189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22932000" />
+    <option name="totallyTimeSpent" value="23382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1050" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
