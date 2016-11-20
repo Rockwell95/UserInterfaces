@@ -20,12 +20,12 @@
           <span class="input-label">Time Reported</span>
           <input type="text" id="time" ng-model="incident.time" ng-value="clock | date:'dd/MM/yyyy HH:mm:ss'">
         </label>
-        <label class="item range range-positive">
+        <label class="item range range-calm">
           <span class="input-label">Incident Severity:&nbsp;<span style="font-style: italic; color: #e42112"><strong>{{incident.severity}}</strong></span></span>
           <input type="range" name="severity" min="0" max="10" value="0" ng-model="incident.severity">
         </label>
         <label class="item">
-          <button class="button button-block button-positive" type="submit">Report</button>
+          <button class="button button-block button-calm" type="submit">Report</button>
         </label>
       </div>
     </form>

@@ -15,7 +15,8 @@ angular.module('starter.controllers', [])
 
   // Create the login modal that we will use later
   $ionicModal.fromTemplateUrl('templates/login.html', {
-    scope: $scope
+    scope: $scope,
+    backdropClickToClose: false
   }).then(function(modal) {
     $scope.modal = modal;
   });
