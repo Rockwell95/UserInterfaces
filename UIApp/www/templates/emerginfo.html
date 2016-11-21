@@ -3,7 +3,6 @@
     <ion-list>
       <ion-item ng-if="friends.length === 0">You Have not added an friends, click "Add" to set one up</ion-item>
       <ion-item ng-repeat="friend in friends track by $index" ng-click="showFriend($index)">{{friend.name}}</ion-item>
-      <ion-item href="tel:+19057213211 "><span><i class="ion-ios-telephone"></i> Call Campus Security</span></ion-item>
     </ion-list>
     <div class="item" style="vertical-align: middle; text-align: center">
       <button class="button button-balanced" ng-click="addFriend()"><span><i class="ion-plus-circled"></i> Add Friend</span></button>
