@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('starter.controllers', [])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
@@ -136,7 +138,114 @@ angular.module('starter.controllers', [])
     console.warn("Could not get location");
   });
 
+    addStations();
+
   });
+
+
+
+  function addStations() {
+    var codeBlueInfo1 = new google.maps.InfoWindow();
+    var cbLatLng1 = new google.maps.LatLng(43.94325851073291, -78.89629898308107);
+    var htmlMarkupForInfoWindow1 = "<b>Code Blue #1</b><br><div style='text-align: center'><button class='button button-assertive'>Call</button></div>";
+
+    var codeBlueInfo2 = new google.maps.InfoWindow();
+    var cbLatLng2 = new google.maps.LatLng(43.943057658943545, -78.89593956707307);
+    var htmlMarkupForInfoWindow2 = "<b>Code Blue #2</b><br><div style='text-align: center'><button class='button button-assertive'>Call</button></div>";
+
+    var codeBlueInfo3 = new google.maps.InfoWindow();
+    var cbLatLng3 = new google.maps.LatLng(43.94440180799459, -78.89721629856416);
+    var htmlMarkupForInfoWindow3 = "<b>Code Blue #3</b><br><div style='text-align: center'><button class='button button-assertive'>Call</button></div>";
+
+    var codeBlueInfo4 = new google.maps.InfoWindow();
+    var cbLatLng4 = new google.maps.LatLng(43.94369883728228, -78.89774201153108);
+    var htmlMarkupForInfoWindow4 = "<b>Code Blue #4</b><br><div style='text-align: center'><button class='button button-assertive'>Call</button></div>";
+
+    var codeBlueInfo5 = new google.maps.InfoWindow();
+    var cbLatLng5 = new google.maps.LatLng(43.94566095453568, -78.89691589115449);
+    var htmlMarkupForInfoWindow5 = "<b>Code Blue #5</b><br><div style='text-align: center'><button class='button button-assertive'>Call</button></div>";
+
+    var marker1 = new google.maps.Marker({
+      position: cbLatLng1,
+      map: $scope.map,
+      animation: google.maps.Animation.DROP,
+      icon: 'img/rsz_pan_blue_circle.png'
+    });
+
+    var marker2 = new google.maps.Marker({
+      position: cbLatLng2,
+      map: $scope.map,
+      animation: google.maps.Animation.DROP,
+      icon: 'img/rsz_pan_blue_circle.png'
+    });
+
+    var marker3 = new google.maps.Marker({
+      position: cbLatLng3,
+      map: $scope.map,
+      animation: google.maps.Animation.DROP,
+      icon: 'img/rsz_pan_blue_circle.png'
+    });
+
+    var marker4 = new google.maps.Marker({
+      position: cbLatLng4,
+      map: $scope.map,
+      animation: google.maps.Animation.DROP,
+      icon: 'img/rsz_pan_blue_circle.png'
+    });
+
+    var marker5 = new google.maps.Marker({
+      position: cbLatLng5,
+      map: $scope.map,
+      animation: google.maps.Animation.DROP,
+      icon: 'img/rsz_pan_blue_circle.png'
+    });
+
+    //Gives each marker an Id for the on click
+    var cbMarkerCount = 5;
+
+
+    google.maps.event.addListener(marker1, 'click', (function(marker, markerCount) {
+      return function() {
+        codeBlueInfo1.setContent(htmlMarkupForInfoWindow1);
+        codeBlueInfo1.open(map, marker);
+        $scope.map.panTo(cbLatLng1); //- See more at: https://www.sundoginteractive.com/blog/working-with-dynamic-markers-in-google-maps-js-api#sthash.EhLN75wB.dpuf
+      }
+    })(marker1, 0));
+
+    google.maps.event.addListener(marker2, 'click', (function(marker, markerCount) {
+      return function() {
+        codeBlueInfo2.setContent(htmlMarkupForInfoWindow2);
+        codeBlueInfo2.open(map, marker);
+        $scope.map.panTo(cbLatLng2); //- See more at: https://www.sundoginteractive.com/blog/working-with-dynamic-markers-in-google-maps-js-api#sthash.EhLN75wB.dpuf
+      }
+    })(marker2, 1));
+
+    google.maps.event.addListener(marker3, 'click', (function(marker, markerCount) {
+      return function() {
+        codeBlueInfo3.setContent(htmlMarkupForInfoWindow3);
+        codeBlueInfo3.open(map, marker);
+        $scope.map.panTo(cbLatLng3); //- See more at: https://www.sundoginteractive.com/blog/working-with-dynamic-markers-in-google-maps-js-api#sthash.EhLN75wB.dpuf
+      }
+    })(marker3, 2));
+
+    google.maps.event.addListener(marker4, 'click', (function(marker, markerCount) {
+      return function() {
+        codeBlueInfo4.setContent(htmlMarkupForInfoWindow4);
+        codeBlueInfo4.open(map, marker);
+        $scope.map.panTo(cbLatLng4); //- See more at: https://www.sundoginteractive.com/blog/working-with-dynamic-markers-in-google-maps-js-api#sthash.EhLN75wB.dpuf
+      }
+    })(marker4, 3));
+
+    google.maps.event.addListener(marker5, 'click', (function(marker, markerCount) {
+      return function() {
+        codeBlueInfo5.setContent(htmlMarkupForInfoWindow5);
+        codeBlueInfo5.open(map, marker);
+        $scope.map.panTo(cbLatLng5); //- See more at: https://www.sundoginteractive.com/blog/working-with-dynamic-markers-in-google-maps-js-api#sthash.EhLN75wB.dpuf
+      }
+    })(marker5, 4))
+
+  }
+
 
   $scope.reportEvent = function () {
     $scope.modal.show();
