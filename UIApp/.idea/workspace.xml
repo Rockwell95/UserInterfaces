@@ -2,8 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b4e5b94-3f30-4c84-a005-174e9d198917" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.mailmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.npmrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/cdn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/dist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/release/ensure-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/dist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/lib/spawn_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/node_smoke_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/promises_aplus_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/sourcemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/build/tasks/testswarm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/dist/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/npo/npo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit-assert-step/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit-assert-step/qunit-assert-step.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/qunit/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/requirejs/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sinon/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sinon/sinon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/DOMEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/ready-no-deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/readyException.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/stripAndCollapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/css/var/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/data/var/dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deferred/exceptionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/event/trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/manipulation/wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/dir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/traversing/var/siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/fnToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/getProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/src/wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/1x1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/content-type.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/evalScript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/method.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/onunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/ajax/unreleasedXHR.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/atom+xml.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/badcall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/badjson.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/cleanScript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/aliased.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/cc_on.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/dont_return.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/dynamic_ready.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/core/onready.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/css/cssWidthBeforeDocReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/dashboard.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/data/dataAttrs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/dimensions/documentLarge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/echoData.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/echoQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/errorWithJSON.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/errorWithText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/etag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/focusElem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/focusinCrossFrame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/interactiveReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/onbeforeunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/promiseReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/syncReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/event/triggerunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/headers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/if_modified_since.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/iframeTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/jquery-1.9.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/json.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/json_obj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/jsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/longLoadScript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/manipulation/iframe-denied.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/manipulation/scripts-context.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/name.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/nocontent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/absolute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/body.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/fixed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/relative.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/static.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/offset/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/params_html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/readywaitasset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/readywaitloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/selector/html5_selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/selector/sizzle_cache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/statusText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/bodyBackground.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp-clean.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp-log.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/csp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/support/getComputedSupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/test3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testbar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testinit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testrunner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/testsuite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/with_fries.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/data/with_fries_over_jsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/delegatetest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/hovertest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen-iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/data/gh-1764-fullscreen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/gh-1764-fullscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/integration/gh-2343-ie-radio-click.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/localfile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/networkerror.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_passed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/document_present_originally.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/iterable_with_native_symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/iterable_with_symbol_polyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_global_not_created.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_iterability_es6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/node_smoke_tests/lib/ensure_jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/promises_aplus_adapters/when.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/readywait.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/exports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/unit/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jQuery/test/xhtml.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
     </list>
     <ignored path="UIApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +302,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="663">
               <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
               <folding />
             </state>
@@ -39,7 +312,7 @@
       <file leaf-file-name="settings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/settings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="476">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -49,9 +322,18 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="51">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1480551456219" expanded="true" signature="103:862" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="136:662" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="161:650" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="201:330" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="370:503" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="532:637" ph="..." />
+                <marker date="1480551456219" expanded="false" signature="695:713" ph="..." />
+                <marker date="1480551456219" expanded="true" signature="714:845" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +341,7 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="68">
               <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
               <folding />
             </state>
@@ -69,7 +351,7 @@
       <file leaf-file-name="emerginfo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/emerginfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="85">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -81,8 +363,8 @@
       <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="578">
+              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -91,25 +373,35 @@
       <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+            <state relative-caret-position="68">
+              <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3630">
-              <caret line="242" column="7" lean-forward="false" selection-start-line="242" selection-start-column="7" selection-end-line="242" selection-end-column="7" />
+            <state relative-caret-position="118">
+              <caret line="136" column="21" lean-forward="false" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
               <folding>
-                <marker date="1480516980000" expanded="true" signature="3855:3873" ph="..." />
-                <marker date="1480516980000" expanded="true" signature="4147:4165" ph="..." />
-                <marker date="1480516980000" expanded="true" signature="4438:4456" ph="..." />
-                <marker date="1480516980000" expanded="true" signature="4729:4747" ph="..." />
-                <marker date="1480516980000" expanded="true" signature="5020:5038" ph="..." />
+                <marker date="1480551456175" expanded="true" signature="3855:3873" ph="..." />
+                <marker date="1480551456175" expanded="true" signature="4147:4165" ph="..." />
+                <marker date="1480551456175" expanded="true" signature="4438:4456" ph="..." />
+                <marker date="1480551456175" expanded="true" signature="4729:4747" ph="..." />
+                <marker date="1480551456175" expanded="true" signature="5020:5038" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,13 +453,11 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,7 +516,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,24 +583,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UIApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UIApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,33 +687,34 @@
       <workItem from="1479678304571" duration="2481000" />
       <workItem from="1479694768476" duration="483000" />
       <workItem from="1480514860525" duration="2093000" />
+      <workItem from="1480551702471" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26250000" />
+    <option name="totallyTimeSpent" value="26895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24868283" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32630098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +776,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1480551456219" expanded="true" signature="103:862" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="136:662" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="161:650" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="201:330" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="370:503" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="532:637" ph="..." />
+            <marker date="1480551456219" expanded="false" signature="695:713" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="714:845" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -463,12 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="e#1124#1130#0" expanded="false" />
-            <element signature="e#1271#1277#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,12 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="e#1124#1130#0" expanded="false" />
-            <element signature="e#1271#1277#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -556,9 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,12 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="e#1124#1130#0" expanded="false" />
-            <element signature="e#1271#1277#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,9 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,9 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,26 +1036,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#label#3;n#div#0;n#ion-content#0;n#ion-modal-view#0;n#!!top" expanded="false" />
-            <element signature="e#1124#1130#0" expanded="false" />
-            <element signature="e#1271#1277#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1480551456219" expanded="true" signature="103:862" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="136:662" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="161:650" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="201:330" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="370:503" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="532:637" ph="..." />
+            <marker date="1480551456219" expanded="false" signature="695:713" ph="..." />
+            <marker date="1480551456219" expanded="true" signature="714:845" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="68">
           <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
           <folding />
         </state>
@@ -770,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/settings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="476">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
@@ -786,7 +1089,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/emerginfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -796,33 +1099,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="578">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="663">
           <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/rsz_pan_blue_circle.png" />
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="136" column="21" lean-forward="false" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+          <folding>
+            <marker date="1480551456175" expanded="true" signature="3855:3873" ph="..." />
+            <marker date="1480551456175" expanded="true" signature="4147:4165" ph="..." />
+            <marker date="1480551456175" expanded="true" signature="4438:4456" ph="..." />
+            <marker date="1480551456175" expanded="true" signature="4729:4747" ph="..." />
+            <marker date="1480551456175" expanded="true" signature="5020:5038" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -831,22 +1141,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/rsz_pan_blue_circle.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3630">
-          <caret line="242" column="7" lean-forward="false" selection-start-line="242" selection-start-column="7" selection-end-line="242" selection-end-column="7" />
-          <folding>
-            <marker date="1480516980000" expanded="true" signature="3855:3873" ph="..." />
-            <marker date="1480516980000" expanded="true" signature="4147:4165" ph="..." />
-            <marker date="1480516980000" expanded="true" signature="4438:4456" ph="..." />
-            <marker date="1480516980000" expanded="true" signature="4729:4747" ph="..." />
-            <marker date="1480516980000" expanded="true" signature="5020:5038" ph="..." />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
